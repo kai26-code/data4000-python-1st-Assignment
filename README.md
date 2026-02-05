@@ -1,1 +1,7 @@
 # data4000-python-1st-Assignment
+
+# Exercise 1: This exercise prompts the user to input a company’s revenue and cost, then calculates the resulting profit and profit margin. The program includes input validation to make # sure revenue is greater than zero before performing the margin calculation, preventing division-by-zero errors.
+# Exercise 2: This exercise evaluates a user’s credit score to determine loan eligibility and interest rate classification. The program validates that the credit score falls within the # standard FICO range before categorizing the applicant into predefined credit tiers.
+# Exercise 3: This exercise defines a reusable function that formats a personalized greeting based on a user’s name and an title. The program cleans user input, handles empty or #whitespace-only entries, and standardizes name formatting before generating a professional greeting.
+# Exercise 4: This exercise determines a user’s tax bracket based on annual income and calculates an estimated tax amount. The program uses a function to classify income levels,  includes input validation, and demonstrates conditional logic with both traditional and ternary expressions.
+# Exercise 5: This exercise classifies products into margin categories based on their names using Python’s match-case control structure. The program cleans user input to ensure #consistent comparisons and applies pattern matching to determine appropriate pricing strategy categories. 
